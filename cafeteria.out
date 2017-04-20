@@ -1,0 +1,28 @@
+
+
+With hotfood 4 workers, average number in queue =     31.110
+
+With sandwich 2 workers, average number in queue =      0.539
+
+With cashier 2 workers, average number in queue =      0.321
+
+Delays in queue, in seconds:
+
+ sampst                         Number
+variable                          of
+ number       Average           values          Maximum          Minimum
+________________________________________________________________________
+
+    1         325.292          485.000          1151.04          0.00000 
+________________________________________________________________________
+
+
+=========================
+1 max delay: 1151 avg delay: 304
+1 max serve_time: 29 avg serve_time: 20
+2 max delay: 217 avg delay: 27
+2 max serve_time: 89 avg serve_time: 59
+3 max delay: 0 avg delay: 0
+3 max serve_time: 19 avg serve_time: 12
+4 max delay: 40 avg delay: 3
+4 max serve_time: 48 avg serve_time: 31
